@@ -1,2 +1,2 @@
 # myrepo
-ÄãÂèµÄ
+my first test
